@@ -39,6 +39,6 @@ Hacktoberfest 2023
 
 If you are contributing to this project during Hacktoberfest 2023, please make sure to follow the Hacktoberfest guidelines. This includes opening a pull request for each README file that you contribute.
 
-We appreciate your contributions!
+## We appreciate your contributions!
 
 Your contributions will help to make this repository a valuable resource for other GitHub users who are looking for inspiration for their own README files.
