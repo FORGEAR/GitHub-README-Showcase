@@ -3,13 +3,24 @@ Discover and showcase your GitHub README files here!
 
 ## How to contribute
 
-Fork the repository. This will create a copy of the repository in your own GitHub account.
-Create a new branch. This will allow you to work on your changes without affecting the main repository.
-Add the README files you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
-Submit a pull request. This will create a request for your changes to be merged into the main repository.
-What to contribute
+- Fork the repository - This will create a copy of the repository in your own GitHub account.
+- Create a new branch - This will allow you to work on your changes without affecting the main repository.
+- Add the README files - you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
+- Submit a pull request - This will create a request for your changes to be merged into the main repository.
+- Wait for your pull request to be reviewed - Your pull request will be reviewed by the repository owner. If there are any issues with your pull request, you will be notified via email.
+- Celebrate - Your pull request has been merged into the main repository! Your changes will now be visible to everyone who visits the repository.
 
-You can contribute any GitHub profile README file that you think is creative and inspiring. It can be your own README file, or the README file of another GitHub user.
+## What to contribute
+
+You can contribute any GitHub profile README file that you think is creative and inspiring. It can be your own README file, or the README file of another GitHub user. Add them to the `data.json` file in the following format:
+
+```json
+  {
+    "GitHub_Name": "Your GitHub username",
+    "Img_URL": "The URL of your profile image",
+    "GitHub_profile": "The URL of your GitHub profile",
+  }
+```
 
 Here are some tips for finding creative README files:
 
