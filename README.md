@@ -7,7 +7,7 @@ Discover and showcase your GitHub README files here!
 
 ## How to contribute
 
-- Fork the repository - This will create a copy of the repository in your own GitHub account.
+- [Fork the repository](https://github.com/FORGEAR/GitHub-README-Showcase/fork) - This will create a copy of the repository in your own GitHub account.
 - Create a new branch - This will allow you to work on your changes without affecting the main repository.
 - Add the README files - you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
 - Submit a pull request - This will create a request for your changes to be merged into the main repository.
