@@ -1,9 +1,7 @@
 # GitHub-README-Showcase
 Discover and showcase your GitHub README files here!
 
-Here is a possible contribution guideline for your GitHub open source repo to collect GitHub profile README files, which will be done simultaneously with Hacktoberfest 2023:
-
-How to contribute
+## How to contribute
 
 Fork the repository. This will create a copy of the repository in your own GitHub account.
 Create a new branch. This will allow you to work on your changes without affecting the main repository.
