@@ -50,17 +50,21 @@ You can create a new branch by clicking the "Branch: main" button and entering a
 
 ### 03. Add the README files
 
-Before edit any file make sure your're in correct branch.(In here we use `edit` branch)
-Edit the `data.json` file to add the README files that you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
+*Before edit any file make sure your're in correct branch.(In here we use `edit` branch)*
+
+Edit the `data.json` file to add the README files that you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository. Also make sure adding `,` to the end of the each object. (Except the last object)
+
+- GitHub Name: Your GitHub username or Display name
+- Img URL: The URL of your profile image (Right click on your profile image and select "Copy image address")
+- GitHub profile: The URL of your GitHub profile
 
 ```json
   {
     "GitHub_Name": "Your GitHub username",
     "Img_URL": "The URL of your profile image",
-    "GitHub_profile": "The URL of your GitHub profile",
+    "GitHub_profile": "The URL of your GitHub profile"
   }
 ```
-
 Once you have added the README files, you can commit your changes and push them to your forked repository.
 
 ![Hacktoberfest 2023](./img/06.png)
