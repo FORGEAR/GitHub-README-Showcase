@@ -33,7 +33,7 @@ Before you can participate in Hacktoberfest 2023, you need to register on the [H
 
 ### 01. Submit an issue
 
-[Submit an issue](https://github.com/FORGEAR/GitHub-README-Showcase/issues/new) to this repository to let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
+[Submit an issue](https://github.com/FORGEAR/GitHub-README-Showcase/issues/new) to this repository to let us know that you are participating in Hacktoberfest 2023. Please include `I want to contribute` as a title and your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
 
 ### 02. Fork this repository
 
