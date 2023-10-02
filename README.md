@@ -42,11 +42,15 @@ Before you can participate in Hacktoberfest 2023, you need to register on the [H
 ![Hacktoberfest 2023](./img/03.png)
 
 ### 02. Create a new branch
+
+You can create a new branch by clicking the "Branch: main" button and entering a name for your branch. In here we use `edit` as the branch name.
+
 ![Hacktoberfest 2023](./img/04.png)
 ![Hacktoberfest 2023](./img/05.png)
 
 ### 03. Add the README files
 
+Before edit any file make sure your're in correct branch.(In here we use `edit` branch)
 Edit the `data.json` file to add the README files that you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
 
 ```json
@@ -58,15 +62,20 @@ Edit the `data.json` file to add the README files that you want to contribute. Y
 ```
 
 Once you have added the README files, you can commit your changes and push them to your forked repository.
+
 ![Hacktoberfest 2023](./img/06.png)
 
 ### 04. Create a pull request
+
+Allways make sure you're in correct branch. (In here we're in `edit` branch)
+
 ![Hacktoberfest 2023](./img/07.png)
 
 ### 05. Submit your pull request
 
-Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. Also make sure to add `manulthanura` as a reviewer and `Hacktoberfest` as a label.
+Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. Also make sure to add `manulthanura` as a *reviewer* and `Hacktoberfest` as a *label*.
 Once you have created your pull request, you can submit it by clicking the "Create pull request" button.
+
 ![Hacktoberfest 2023](./img/08.png)
 
 ### 06. Wait for your pull request to be reviewed
