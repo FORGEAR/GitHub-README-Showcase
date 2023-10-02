@@ -1,7 +1,8 @@
 # GitHub-README-Showcase
 Discover and showcase your GitHub README files here!
 
-![Static Badge](https://img.shields.io/badge/OPEN%20SOURCE-Hacktoberfest-blue)
+![Static Badge](https://img.shields.io/badge/OPEN%20SOURCE-beginner%20friendly-blue)
+![Static Badge](https://img.shields.io/badge/EVENT-Hacktoberfest-green)
 
 
 ## How to contribute
