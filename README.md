@@ -7,6 +7,7 @@ Discover and showcase your GitHub README files here!
 
 ## How to contribute
 
+- Submit an issue - This will let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
 - [Fork the repository](https://github.com/FORGEAR/GitHub-README-Showcase/fork) - This will create a copy of the repository in your own GitHub account.
 - Create a new branch - This will allow you to work on your changes without affecting the main repository.
 - Add the README files - you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
@@ -28,9 +29,11 @@ You can contribute any GitHub profile README file that you think is creative and
 
 ## How to participate in Hacktoberfest 2023
 
-### 01. Submit an issue 
+Before you can participate in Hacktoberfest 2023, you need to register on the [Hacktoberfest website](https://hacktoberfest.com). Once you have registered, you can start contributing to this repository by following the steps below.
 
-Submit an issue to this repository to let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
+### 01. Submit an issue
+
+[Submit an issue](https://github.com/FORGEAR/GitHub-README-Showcase/issues/new) to this repository to let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
 
 ### 02. Fork this repository
 
