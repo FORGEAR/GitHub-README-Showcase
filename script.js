@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         </div>
                         <div class="face back-face">
                             <span class="fas fa-quote-left"></span>
-                            <a class="btn btn-primary" href="${item.GitHub_profile}" role="button">
+                            <a class="btn btn-light" href="${item.GitHub_profile}" role="button">
                                 View Profile
                             </a>
                             <span class="fas fa-quote-right"></span>
