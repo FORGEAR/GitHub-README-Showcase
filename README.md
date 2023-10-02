@@ -1,6 +1,9 @@
 # GitHub-README-Showcase
 Discover and showcase your GitHub README files here!
 
+![Static Badge](https://img.shields.io/badge/OPEN%20SOURCE-Hacktoberfest-blue)
+
+
 ## How to contribute
 
 - Fork the repository - This will create a copy of the repository in your own GitHub account.
