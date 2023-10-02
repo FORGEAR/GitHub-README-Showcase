@@ -29,34 +29,53 @@ You can contribute any GitHub profile README file that you think is creative and
 ## How to participate in Hacktoberfest 2023
 
 ### 01. Submit an issue 
+
 Submit an issue to this repository to let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
 
-01. Fork this repository
+### 02. Fork this repository
 
 ![Hacktoberfest 2023](./img/01.png)
 ![Hacktoberfest 2023](./img/02.png)
 ![Hacktoberfest 2023](./img/03.png)
 
-02. Create a new branch
+### 02. Create a new branch
 ![Hacktoberfest 2023](./img/04.png)
+![Hacktoberfest 2023](./img/05.png)
 
-Here are some tips for finding creative README files:
+### 03. Add the README files
 
-Browse the GitHub Explore page to find popular and interesting projects.
-Look for projects that have a lot of stars and forks.
-Read the README files of projects that you are interested in.
-Look for README files that are well-written, informative, and visually appealing.
-Once you have found a README file that you want to contribute, please follow these steps:
+Edit the `data.json` file to add the README files that you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
 
-Clone the repository to your local machine.
-Copy the README file to your forked repository.
-Add a comment to the top of the README file explaining why you are contributing the file.
-Commit your changes and push them to your forked repository.
-Open a pull request to the main repository.
-Hacktoberfest 2023
+```json
+  {
+    "GitHub_Name": "Your GitHub username",
+    "Img_URL": "The URL of your profile image",
+    "GitHub_profile": "The URL of your GitHub profile",
+  }
+```
 
-If you are contributing to this project during Hacktoberfest 2023, please make sure to follow the Hacktoberfest guidelines. This includes opening a pull request for each README file that you contribute.
+Once you have added the README files, you can commit your changes and push them to your forked repository.
+![Hacktoberfest 2023](./img/06.png)
+
+### 04. Create a pull request
+![Hacktoberfest 2023](./img/07.png)
+
+### 05. Submit your pull request
+
+Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. Also make sure to add `manulthanura` as a reviewer and `Hacktoberfest` as a label.
+Once you have created your pull request, you can submit it by clicking the "Create pull request" button.
+![Hacktoberfest 2023](./img/08.png)
+
+### 06. Wait for your pull request to be reviewed
+
+Your pull request will be reviewed by the repository owner. If there are any issues with your pull request, you will be notified via email.
+
+### 07. Celebrate
+
+Your pull request has been merged into the main repository! Your changes will now be visible to everyone who visits the repository.
 
 ## We appreciate your contributions!
 
 Your contributions will help to make this repository a valuable resource for other GitHub users who are looking for inspiration for their own README files.
+
+If you are contributing to this project during Hacktoberfest 2023, please make sure to follow the Hacktoberfest guidelines. This includes opening a pull request for each README file that you contribute.
