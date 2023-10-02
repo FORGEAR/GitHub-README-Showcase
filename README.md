@@ -26,6 +26,20 @@ You can contribute any GitHub profile README file that you think is creative and
   }
 ```
 
+## How to participate in Hacktoberfest 2023
+
+### 01. Submit an issue 
+Submit an issue to this repository to let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
+
+01. Fork this repository
+
+![Hacktoberfest 2023](./img/01.png)
+![Hacktoberfest 2023](./img/02.png)
+![Hacktoberfest 2023](./img/03.png)
+
+02. Create a new branch
+![Hacktoberfest 2023](./img/04.png)
+
 Here are some tips for finding creative README files:
 
 Browse the GitHub Explore page to find popular and interesting projects.
