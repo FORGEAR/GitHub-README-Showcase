@@ -10,7 +10,7 @@ Discover and showcase your GitHub README files here!
 - Submit an issue - This will let us know that you are participating in Hacktoberfest 2023. Please include your GitHub username in the issue description. Also make sure to add `manulthanura` as a assignee.
 - [Fork the repository](https://github.com/FORGEAR/GitHub-README-Showcase/fork) - This will create a copy of the repository in your own GitHub account.
 - Create a new branch - This will allow you to work on your changes without affecting the main repository.
-- Add the README files - you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
+- Add the README files - You want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository.
 - Submit a pull request - This will create a request for your changes to be merged into the main repository.
 - Wait for your pull request to be reviewed - Your pull request will be reviewed by the repository owner. If there are any issues with your pull request, you will be notified via email.
 - Celebrate - Your pull request has been merged into the main repository! Your changes will now be visible to everyone who visits the repository.
