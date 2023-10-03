@@ -71,7 +71,7 @@ Once you have added the README files, you can commit your changes and push them 
 
 ### 05. Create a pull request
 
-Allways make sure you're in correct branch. (In here we're in `edit` branch)
+Always make sure you're in correct branch. (In here we're in `edit` branch)
 
 ![Hacktoberfest 2023](./img/07.png)
 
