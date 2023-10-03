@@ -50,7 +50,7 @@ You can create a new branch by clicking the "Branch: main" button and entering a
 
 ### 04. Add the README files
 
-*Before edit any file make sure your're in correct branch.(In here we use `edit` branch)*
+*Before edit any file make sure your're in the correct branch.(In here we use `edit` branch)*
 
 Edit the `data.json` file to add the README files that you want to contribute. You can do this by cloning the repository to your local machine, adding the files, and then pushing the changes to your forked repository. Also make sure adding `,` to the end of the each object. (Except the last object)
 
