@@ -77,7 +77,7 @@ Always make sure you're in correct branch. (In here we're in `edit` branch)
 
 ### 06. Submit your pull request
 
-Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. 
+Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. This will help us to understand your contribution better.
 Once you have created your pull request, you can submit it by clicking the "Create pull request" button.
 
 ![Hacktoberfest 2023](./img/08.png)
