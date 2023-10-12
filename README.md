@@ -80,8 +80,6 @@ Allways make sure you're in correct branch. (In here we're in `edit` branch)
 Before submitting your pull request, please make sure that you have added a comment to the top of the README file explaining why you are contributing the file. Also make sure to add `manulthanura` as a *reviewer* and `Hacktoberfest` as a *label*.
 Once you have created your pull request, you can submit it by clicking the "Create pull request" button.
 
-If you
-
 ![Hacktoberfest 2023](./img/08.png)
 
 ### 06. Wait for your pull request to be reviewed
